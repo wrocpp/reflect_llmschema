@@ -1,2 +1,7 @@
 # reflect_llmschema
-Generate LLM tool-use JSON schemas from C++ functions at compile time with C++26 reflection. Companion repo for the wro.cpp C++26 reflection series; runnable examples in wrocpp/cpp26-reflection-examples.
+
+This repository is a placeholder. It contains no code, no release and no licence.
+
+The wro.cpp post [reflect_llmschema: C++ functions to LLM tool-use schemas, at compile time](https://wrocpp.github.io/posts/reflect-llmschema/) shows a design sketch of a library by this name. The sketch is not implemented here.
+
+Runnable single-file examples are in [wrocpp/cpp26-reflection-examples](https://github.com/wrocpp/cpp26-reflection-examples) (`posts/19-reflect-llmschema/examples`).
